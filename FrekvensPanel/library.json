@@ -1,0 +1,12 @@
+{
+  "name": "FrekvensPanel",
+  "version": "0.0.1",
+  "description": "This is a first rough cut of an Arduino library for the IKEA FREKVENS LED panels developed jointly with Teenage Engineering.",
+  "keywords": "frekvens",
+  "dependencies": [
+    {
+      "name": "Adafruit GFX Library",
+      "version": "~1.4.7"
+    }
+  ]
+}
